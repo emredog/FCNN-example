@@ -1,0 +1,5 @@
+images/gt_*
+images/cropped_*
+.DS_Store
+images/.DS_Store
+__pycache__/
